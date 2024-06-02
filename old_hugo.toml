@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Cupertino Blog"
+themesDir = "themes"
+theme = "ananke"
