@@ -6,63 +6,42 @@
     <description>Recent content in Articles on Cupertino Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jun 2024 05:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 14:08:29 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Link?</title>
-      <link>//localhost:1313/post/link--2024-06-03t01-32-51.510749/</link>
-      <pubDate>Mon, 03 Jun 2024 05:32:51 +0000</pubDate>
-      <guid>//localhost:1313/post/link--2024-06-03t01-32-51.510749/</guid>
+      <title>jpg 2</title>
+      <link>//localhost:1313/post/jpg-2-2024-06-03-14-08-29.080672/</link>
+      <pubDate>Mon, 03 Jun 2024 14:08:29 +0000</pubDate>
+      <guid>//localhost:1313/post/jpg-2-2024-06-03-14-08-29.080672/</guid>
       <description>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
     </item>
     <item>
-      <title>Link and header</title>
-      <link>//localhost:1313/post/link-and-header-2024-06-03-01-18-04.106284/</link>
-      <pubDate>Mon, 03 Jun 2024 05:18:04 +0000</pubDate>
-      <guid>//localhost:1313/post/link-and-header-2024-06-03-01-18-04.106284/</guid>
-      <description>https://pages.cs.wisc.edu/~harron/</description>
-    </item>
-    <item>
-      <title>Just the link</title>
-      <link>//localhost:1313/post/just-the-link-2024-06-03-01-16-01.120278/</link>
-      <pubDate>Mon, 03 Jun 2024 05:16:01 +0000</pubDate>
-      <guid>//localhost:1313/post/just-the-link-2024-06-03-01-16-01.120278/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>No date or image but with dashes this time</title>
-      <link>//localhost:1313/post/no-date-or-image-but-with-dashes-this-time-2024-06-03-01-12-08.591059/</link>
-      <pubDate>Mon, 03 Jun 2024 05:12:08 +0000</pubDate>
-      <guid>//localhost:1313/post/no-date-or-image-but-with-dashes-this-time-2024-06-03-01-12-08.591059/</guid>
-      <description>![Header Image](The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
-    </item>
-    <item>
-      <title>No date or image</title>
-      <link>//localhost:1313/post/no-date-or-image-2024-06-03-01-09-53.723121/</link>
-      <pubDate>Mon, 03 Jun 2024 05:09:53 +0000</pubDate>
-      <guid>//localhost:1313/post/no-date-or-image-2024-06-03-01-09-53.723121/</guid>
-      <description>![Header Image](The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
-    </item>
-    <item>
-      <title>Test 2</title>
-      <link>//localhost:1313/post/test-2-2024-06-02-23-43-20.238502/</link>
-      <pubDate>Mon, 03 Jun 2024 03:43:20 +0000</pubDate>
-      <guid>//localhost:1313/post/test-2-2024-06-02-23-43-20.238502/</guid>
-      <description>Introduction The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
-    </item>
-    <item>
-      <title>Test 1</title>
-      <link>//localhost:1313/post/2024-06-02-23-08-49.529226-test-1/</link>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/2024-06-02-23-08-49.529226-test-1/</guid>
+      <title>jpg</title>
+      <link>//localhost:1313/post/jpg-2024-06-03-13-40-44.762351/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/jpg-2024-06-03-13-40-44.762351/</guid>
       <description>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
     </item>
     <item>
-      <title>Post Title</title>
-      <link>//localhost:1313/post/my-first-post/</link>
-      <pubDate>Sat, 01 Jun 2024 00:27:02 -0400</pubDate>
-      <guid>//localhost:1313/post/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <title>jpg</title>
+      <link>//localhost:1313/post/jpg-2024-06-03-13-53-06.108362/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/jpg-2024-06-03-13-53-06.108362/</guid>
+      <description>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
+    </item>
+    <item>
+      <title>jpg 2</title>
+      <link>//localhost:1313/post/jpg-2-2024-06-03-14-29-17.169145/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/jpg-2-2024-06-03-14-29-17.169145/</guid>
+      <description>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
+    </item>
+    <item>
+      <title>jpg pls</title>
+      <link>//localhost:1313/post/jpg-pls-2024-06-03-14-46-48.309537/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/jpg-pls-2024-06-03-14-46-48.309537/</guid>
+      <description>The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible.</description>
     </item>
   </channel>
 </rss>

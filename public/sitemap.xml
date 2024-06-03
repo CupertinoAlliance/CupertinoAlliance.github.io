@@ -3,42 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-06-03T05:18:04+00:00</lastmod>
+    <lastmod>2024-06-03T14:08:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/post/link-and-header-2024-06-03-01-18-04.106284/</loc>
-    <lastmod>2024-06-03T05:18:04+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/post/just-the-link-2024-06-03-01-16-01.120278/</loc>
-    <lastmod>2024-06-03T05:16:01+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/post/no-date-or-image-but-with-dashes-this-time-2024-06-03-01-12-08.591059/</loc>
-    <lastmod>2024-06-03T05:12:08+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/post/no-date-or-image-2024-06-03-01-09-53.723121/</loc>
-    <lastmod>2024-06-03T05:09:53+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/post/test-2-2024-06-02-23-43-20.238502/</loc>
-    <lastmod>2024-06-03T03:43:20+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/post/2024-06-02-23-08-49.529226-test-1/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>//localhost:1313/post/my-first-post/</loc>
-    <lastmod>2024-06-01T00:27:02-04:00</lastmod>
+    <loc>//localhost:1313/post/jpg-2-2024-06-03-14-08-29.080672/</loc>
+    <lastmod>2024-06-03T14:08:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -48,6 +18,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/jpg-2024-06-03-13-40-44.762351/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/jpg-2024-06-03-13-53-06.108362/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/jpg-2-2024-06-03-14-29-17.169145/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/jpg-pls-2024-06-03-14-46-48.309537/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
