@@ -1,7 +1,7 @@
 +++
-title = 'My First Post'
+title = 'Post Title'
 date = 2024-06-02T00:27:02-04:00
-author = 'Tyler Mullins'
+author = 'Author'
 draft = false
 +++
 ## Introduction
