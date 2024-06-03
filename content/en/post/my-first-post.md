@@ -1,6 +1,6 @@
 +++
 title = 'Post Title'
-date = 2024-06-02T00:27:02-04:00
+date = 2024-06-01T00:27:02-04:00
 author = 'Author'
 draft = false
 +++
