@@ -26,7 +26,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = "images/CUPFL-108x108.png"
+  favicon = "images/CUPFLB.png"
   site_logo = "images/Cupertino Forum Banner.png"
   description = "A diplomatic forum for micronational cooperation, diplomacy, and socializing."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

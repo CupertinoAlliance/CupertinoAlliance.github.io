@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-03T05:18:04+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/link-and-header-2024-06-03-01-18-04.106284/</loc>
+    <lastmod>2024-06-03T05:18:04+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/just-the-link-2024-06-03-01-16-01.120278/</loc>
+    <lastmod>2024-06-03T05:16:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/no-date-or-image-but-with-dashes-this-time-2024-06-03-01-12-08.591059/</loc>
+    <lastmod>2024-06-03T05:12:08+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/no-date-or-image-2024-06-03-01-09-53.723121/</loc>
+    <lastmod>2024-06-03T05:09:53+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/post/test-2-2024-06-02-23-43-20.238502/</loc>
+    <lastmod>2024-06-03T03:43:20+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
