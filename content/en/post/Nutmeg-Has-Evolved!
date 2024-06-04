@@ -11,4 +11,9 @@ Include the title of the article, the author, a link to an image to accompany it
 
 As mentioned, the formatting for the text of the post should be done using [markdown, which is what discord text formatting uses](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline), so it should be familiar. There is no character limit, so I recommend typing up the blog post in discord or a text editor, then just pasting it all into the text spot in the /news command.
 
+### If you want to include headers and/or line breaks in your post, you need to do it on mobile
+When you paste your text into the command, line breaks are automatically removed and doing shift+enter [does not work on desktop](https://github.com/discord/discord-api-docs/issues/2381), but it DOES work on mobile using the return button on your phone keyboard. 
+
+If you need to make edits to your blog post after it's submitted, contact Tyler Mullins (@darkstar1592).
+
 Visit the [Forum](https://discord.cupertinoalliance.com)!
