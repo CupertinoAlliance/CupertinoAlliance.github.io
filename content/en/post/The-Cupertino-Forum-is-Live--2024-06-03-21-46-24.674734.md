@@ -9,6 +9,7 @@ featured_image: 'post/The-Cupertino-Forum-is-Live--2024-06-03-21-46-24.674734/CU
 ## Welcome to the Cupertino Forum!
 *A diplomatic forum for micronational cooperation, diplomacy, and socializing.*
 
+## What is the Cupertino Forum?
 [Here](https://docs.google.com/document/d/1Up5o60SfCa-snuXolb1Evu0NzBOnzfuRvgzZAtRIrSY/edit?usp=sharing) is the document that describes how the forum works in detail.
 
 The Cupertino Forum is the successor organization of the Cupertino alliance. While it still bears some resemblance, it is very different in form and function.
