@@ -19,8 +19,10 @@ King Tyler M:
 Phillip:
    - 🥇 3km Run (14:40.14 minutes)
    - 🥇 50m Swim (120 seconds)
+
 Kathy:
    - 🥇 100m Run (15.5 seconds)
+   
 Sheri:
    - 🥇 400m Run (1:30.61 minutes)
 
