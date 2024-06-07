@@ -19,7 +19,7 @@ To this end, the Cupertino Forum was devised through the careful consideration o
 
 ## What We Offer
 Micronational Cooperation:
-* We have channels for various topics on micronationalism, such as diplomacy, culture, design, economy, technology, micro-law, government and military.
+* We have channels for various topics on micronationalism, such as diplomacy, culture, design, physical development, economy, technology, micro-law, government and military.
 * We also have a few channels for general and off-topic discussion.
 
 Simple and effective member programs:
