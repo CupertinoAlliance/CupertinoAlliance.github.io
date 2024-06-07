@@ -28,4 +28,5 @@ Kathy:
 Sheri:
    - 🥇 400m Run (1:30.61 minutes) [[8]](https://media.discordapp.net/attachments/912850581083799585/1248034345315471473/Screenshot_2024-06-02_at_2.13.21_pm.png?ex=6663838f&is=6662320f&hm=8dabe4ad7a77e0ec2233949cb85c1b04e9925775246684f3eae6450e2895a0a8&=&format=webp&quality=lossless&width=1035&height=733)
 
-Visit the [link](https://micronations.wiki/wiki/2024_MOF_Remote_Games)!
+
+Check out the [wiki article on the 2024 MOF Remote Games](https://micronations.wiki/wiki/2024_MOF_Remote_Games)!
