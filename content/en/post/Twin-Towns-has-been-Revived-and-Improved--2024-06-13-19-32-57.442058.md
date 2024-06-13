@@ -15,7 +15,7 @@ In this iteration of the program, the process has become fully automated, empowe
 When this command is run, the bot pings `[delegate of their nation]` and provides ✅ and ❌ for them to approve or deny the twin request. The request will time out after 5 minutes.
 If the request is approved, a PDF certificate will be auto-generated and posted by the bot. 
 
-Below the twin towns agreement between Cardinalia (New Athens) and Imperia (Levinia) as an example.
+Below is the twin towns agreement between Cardinalia (New Athens) and Imperia (Levinia) as an example.
 
 ![Cardinalia-Imperia Twin Towns Agreement](https://cdn.discordapp.com/attachments/838803218590728192/1250891596220731453/New_Athens-Cardinalia_Levinia-Imperia.jpg?ex=666c9714&is=666b4594&hm=fe03e38caf4ef136b30eaad80108aaf1007d5500336d1f00b0b1950e39f87c9d&)
 
