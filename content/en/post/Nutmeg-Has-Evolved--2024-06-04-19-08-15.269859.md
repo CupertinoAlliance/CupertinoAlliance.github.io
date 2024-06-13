@@ -12,6 +12,7 @@ This program allows members to have an official blog for sharing news, without h
 
 ### Usage
 `/news title author image text link(optional)`
+*NOTE: This command is only enabled in #member-news*
 
 Include the title of the article, the author, a link to an image to accompany it, and the text of the blog post, formatted in markdown (discord formatting). Optionally, you can also include an external link, which will be automatically included at the bottom of the blog post. Examples of links could include related social media posts or a link to a related post on your national blog, if you have one.
 
