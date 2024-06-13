@@ -7,7 +7,7 @@ featured_image: 'post/Twin-Towns-has-been-Revived-and-Improved--2024-06-13-19-32
 ---
 *The Twin Towns program aims to unite member nations through the pairing of cities and towns, creating diplomatic and cultural relations and boosting them where they currently exist. The primary objective of the program is to create long-lasting bonds between members, encouraging growth and partnerships within paired cities and nations.*
 ## Improvements
-In this iteration of the program, the process has become fully automated, empowering member states to easily twin their towns with other members. 
+In this iteration of the program, the process has become fully automated, empowering member states to easily twin their towns with other members. Official certificates are automatically generated for participants.
 ### Usage
 `/twin [your nation] [your town] [another nation] [their town] [delegate of their nation]`
 *NOTE: The command is only enabled  in #twin-towns*
