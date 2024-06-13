@@ -8,7 +8,7 @@ featured_image: 'post/Twin-Towns-has-been-Revived-and-Improved--2024-06-13-19-32
 
 ## Twin Towns has been Revived and Improved!
 
-*The Twin Towns program aims to unite member nations through the pairing of cities and towns, creating diplomatic and cultural relations and boosting them where they currently exist. The primary objective of the program include developing settlements by pairing them with similar cities, creating long-lasting bonds between settlements and nations, encouraging growth and partnerships within paired cities and nations.*
+*The Twin Towns program aims to unite member nations through the pairing of cities and towns, creating diplomatic and cultural relations and boosting them where they currently exist. The primary objective of the program includes developing settlements by pairing them with similar cities, creating long-lasting bonds between settlements and nations, encouraging growth and partnerships within paired cities and nations.*
 ## Improvements
 In this iteration of the program, the process has become fully automated, empowering member states to easily twin their towns with other members. 
 ### Usage
