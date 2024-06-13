@@ -13,7 +13,7 @@ featured_image: 'post/Twin-Towns-has-been-Revived-and-Improved--2024-06-13-19-32
 In this iteration of the program, the process has become fully automated, empowering member states to easily twin their towns with other members. 
 ### Usage
 `/twin [your nation] [your town] [another nation] [their town] [delegate of their nation]`
-*NOTE: The command is only enabled  in <#838802420716798002>*
+*NOTE: The command is only enabled  in #twin-towns*
 
 When this command is run, the bot pings `[delegate of their nation]` and provides ✅ and ❌ for them to approve or deny the twin request. The request will time out after 5 minutes.
 If the request is approved, a PDF certificate will be auto-generated and posted by the bot. 
