@@ -22,6 +22,6 @@ Forum members consider the start of the forum to have been a success, but arrive
 - Various diplomatic and nation-building programs, such as the Twin Towns diplomatic program, the Nutmeg blog, and Cupertino Guides.
 - Events are on the horizon too. The first monthly summit will be scheduled soon, with more events to come once the Events Secretary has been elected.
 ### Join the Cupertino Forum at https://discord.cupertino.forum
-[Here is the document that describes how the forum works in detail:](
+[Here is the document that describes how the forum works in detail](
 https://docs.google.com/document/d/1Up5o60SfCa-snuXolb1Evu0NzBOnzfuRvgzZAtRIrSY/edit?usp=sharing)
 
