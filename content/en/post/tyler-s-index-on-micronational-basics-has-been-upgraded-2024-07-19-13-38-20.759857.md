@@ -10,6 +10,6 @@ featured_image: 'post/tyler-s-index-on-micronational-basics-has-been-upgraded-20
 > 
 > This index is designed to be a yes/no checklist, with each item being worth a set number of points, totaling 100.
 
-Now, in addition to the [previously provided google sheet](https://docs.google.com/spreadsheets/d/1bCQdYJZvS2QgPzv7vMOel9wKImSOCRdk) calculator, [This auto-scoring Google form](https://docs.google.com/forms/d/e/1FAIpQLSfp4iw7QskV6YxQBpedY-uYCzesfx_hQuPWwTxNXvPiIRVwPA/viewform?usp=sf_link) can now be used to easily score a micronation on this scale.
+Now, in addition to the [previously provided google sheet](https://docs.google.com/spreadsheets/d/1bCQdYJZvS2QgPzv7vMOel9wKImSOCRdk) calculator, [this auto-scoring Google form](https://docs.google.com/forms/d/e/1FAIpQLSfp4iw7QskV6YxQBpedY-uYCzesfx_hQuPWwTxNXvPiIRVwPA/viewform?usp=sf_link) can now be used to easily score a micronation on this scale.
 
 Visit the [link](https://micronations.wiki/wiki/Classification_systems_for_micronations#Tyler's_Index_on_Micronational_Basics)!
