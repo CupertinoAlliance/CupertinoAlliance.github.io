@@ -6,7 +6,7 @@ draft: false
 featured_image: 'post/2024-culture-fest--day-1---government-2024-08-26-13-30-04.749654/CUPFW.png'
 ---
 
-{{< details >}}
+{{< details title="New Athens (Click to Expand)" >}}
 <summary>New Athens</summary>  
 **__The Free Nation of New Athens__**
 
