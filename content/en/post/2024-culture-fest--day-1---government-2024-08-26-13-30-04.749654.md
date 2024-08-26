@@ -1,4 +1,3 @@
-<!-- [![IMG]()]() -->
 ---
 title: '2024 Culture Fest: Day 1 - Government'
 date: '2024-08-26T13:30:04.749654Z'
@@ -123,7 +122,7 @@ Our **national bird** is the Bluebird, which lives around Levinia and in the Imp
 
 {{< details title="Kingdom of Amorlenter (Click to Expand)" >}}
 
-The Kingdom of Amorlenter
+**The Kingdom of Amorlenter**
 
 Executive:  
  King: The King, Ressurect3d, has some limits to power, but there are instances he has power. He has direct permission to call the parliament to order in times of chaos or disorder, he has direct control of the Amorlenti Marine Corps,and  he can declare the banning of certain religions deemed unsafe and dangerous to the state and people.
@@ -167,7 +166,7 @@ These are the flags of the Army, Navy, and Air Force:
 [![IMG](https://media.discordapp.net/attachments/1276169603256422502/1277049170901078047/Screenshot_2024-04-22_165726.png?ex=66cdba78&is=66cc68f8&hm=7ebbebce3d2ad956cb8f446086b40b0fe88b1be7781a074130c4005220f7dd94&=&format=webp&quality=lossless&width=1372&height=842)](https://media.discordapp.net/attachments/1276169603256422502/1277049170901078047/Screenshot_2024-04-22_165726.png?ex=66cdba78&is=66cc68f8&hm=7ebbebce3d2ad956cb8f446086b40b0fe88b1be7781a074130c4005220f7dd94&=&format=webp&quality=lossless&width=1372&height=842)
 {{< /details >}}
 
-**{{< details title="Principality of Sancratosia (Click to Expand)" >}}**
+{{< details title="Principality of Sancratosia (Click to Expand)" >}}
 **Principality of Sancratosia**
 
 **Government**  
@@ -256,7 +255,7 @@ __Symbols__
 [![IMG](https://media.discordapp.net/attachments/1276169603256422502/1276943028900335750/2Q.png?ex=66cd579e&is=66cc061e&hm=2ee0f46699293194ffc1042b885d29d73021f24646f6600adc39bed56d1ad5ab&=&format=webp&quality=lossless&width=518&height=388)](https://media.discordapp.net/attachments/1276169603256422502/1276943028900335750/2Q.png?ex=66cd579e&is=66cc061e&hm=2ee0f46699293194ffc1042b885d29d73021f24646f6600adc39bed56d1ad5ab&=&format=webp&quality=lossless&width=518&height=388)
 {{< /details >}}
 
-**{{< details title="Þeiod av Þe Markomanas (Click to Expand)" >}}**
+{{< details title="Þeiod av Þe Markomanas (Click to Expand)" >}}
 
 **__Þeiod av Þe Markomanas__**
 
@@ -300,7 +299,7 @@ Every Hus, and every tribe, has a dwodm. A dwodm is more or less a powerful anim
 
 {{< /details >}}
 
-**{{< details title="Empire of Pabistan (Click to Expand)" >}}**
+{{< details title="Empire of Pabistan (Click to Expand)" >}}
 
 **__The Empire of Pabistan__**
 
@@ -359,7 +358,7 @@ The Supreme Court of Pabistan is the highest ranking court in The Empire, and ov
 **National Anthem:** The National Anthem is Pictures at An Exhibition: Promenade, this was chosen because this song would always play in the Hall of Glory in Sid Meier's Civilization Revolution, so to me it represents victory and glory. [https://www.youtube.com/watch?v=T03IB4MBSGQ&ab_channel=TheEmpireofPabistan](https://www.youtube.com/watch?v=T03IB4MBSGQ&ab_channel=TheEmpireofPabistan)
 {{< /details >}}
 
-**{{< details title="Kingdom of Eintrachtia (Click to Expand)" >}}**
+{{< details title="Kingdom of Eintrachtia (Click to Expand)" >}}
 
 **__Kingdom of Eintrachtia__**
 
