@@ -1,5 +1,5 @@
 ---
-title: '2024 Culure Fest: Day 2 - Customs'
+title: '2024 Culture Fest: Day 2 - Customs'
 date: '2024-08-26T14:53:01.909341Z'
 author: 'Tyler Mullins'
 draft: false
