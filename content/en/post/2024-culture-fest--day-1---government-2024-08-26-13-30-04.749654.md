@@ -14,30 +14,25 @@ Day 1 of the 2024 Cupertino Forum Culture Festival was about __government, law, 
 
 **__Executive__**
 
-**King**
-
+**King**  
 The King, reigns within the bounds outlined in The Constitution. The King oversees all government matters, excluding parliament, and has the authority to formally represent The Free Nation of New Athens with plenipotentiary powers. He has the power to appoint all government positions, excluding positions within the Monarchy and The Speaker of the People, and manufacture new positions as needed. Citizenship is granted and revoked at the discretion of The King. Along with the Grand Ambassador, the King must sign all binding diplomatic agreements. The King keeps records of all territorial claims. The King oversees the national treasury.
 
 **__Grand Cabinet__**
 
-**Grand Ambassador**
-
+**Grand Ambassador**  
 The Grand Ambassador, currently Lord Tyler Wilson, represents the Free Nation of New Athens with full plenipotentiary powers and may appoint deputy ambassadors to assist them. The Grand Ambassador must sign all binding diplomatic agreements.
 
-**Chief Justice**
-
+**Chief Justice**  
 The Chief Justice, currently Dylan Ray, determines the constitutionality of all proposed laws, oversees the Department of Justice, and presides over all legal courts.
 
 **Grand General**
 
 The Grand General, currently Kenan Mitchell, oversees all military strategy and the national police force.
 
-**Grand Archivist**
-
+**Grand Archivist**  
 The Grand Archivist, currently Jackson Pool, oversees the preservation of all documents and items of historical significance pertaining to New Athens.
 
-**__Cabinet of Ministers__**
-
+**__Cabinet of Ministers__**  
 Minister of Education (Hemanshu Parmar)  
 Minister of Technology (Bashiru Aremu)  
 Director of Aerospace Affairs (Sasha Popov)  
@@ -53,7 +48,7 @@ Minister of Aviation (Mason Johnson)
 
 **__Symbols__**
 
-Our **__national animal __**is the **albatross**. It was chosen for its endurance, as they are capable of flying across oceans.  
+Our **__national animal __** is the **albatross**. It was chosen for its endurance, as they are capable of flying across oceans.  
 Our **__national fruit__** is the **Georgia Peach**, chosen from the state which surrounds our territories.  
 Our **__national flower__** is the **garden tulip**. They are planted every year in the Roswell Province.  
 Our **__national drink__** is **Natural Light**, a popular beverage of the founders.  
@@ -68,20 +63,15 @@ Our **__national drink__** is **Natural Light**, a popular beverage of the found
 
 __***The Empire of Levina***__
 
-**Executive**
-
-*The Emperor*
-
+**Executive**  
+*The Emperor*  
 Levinia is an absolute monarchy, meaning the Emperor has full control over the country. While we do have the constitution, the Emperor does not need to abide by it, which is said in the constitution. As Head of State and Head of Government, everything is done with the approval of the Emperor. Citizenship is granted and revoked at the discretion of the Emperor. The Emperor signs all diplomatic agreements and normally serves as Minister of Foreign affairs. The Emperor oversees the treasury and all government purchases and events. 
 
-**Imperial Cabinet**
-
-*Prime Minister*
-
+**Imperial Cabinet**  
+*Prime Minister*  
 The Prime Minister is picked by the Emperor, or the people can elect it if it is approved by the Emperor and they so wish. The Prime Minister runs the day-to-day government under supervision from the Emperor. The Emperor allows the PM to control the government, appoint ministers, etc.
 
-*Cabinet of Ministers*
-
+*Cabinet of Ministers*  
 Ministry of Economic Affairs and Finance  
 Ministry of Foreign Affairs  
 Ministry of Internal Affairs  
@@ -96,22 +86,17 @@ Ministry of Post and Communication
 Ministry of Science, Innovation, and Technology  
 Ministry of Education  
 
-**Imperial Parliament**
-
-*The Imperial Senate*
-
+**Imperial Parliament**  
+*The Imperial Senate*  
 The Imperial Senate (TIS) is a house comprised of only appointed officials, that does not base its members on political parties. The Emperor may appoint anyone he likes to the Senate. It is the upper house in Levinia and debates on everything passed by the House of Representatives, the lower house. Normally they meet together, and collaborate on projects.
 
-*The House of Representatives*
-
+*The House of Representatives*  
 The House of Representatives is the lower, elected house. Unlike the UK and American governments, the elections are held by political parties. Meaning instead of voting for a person, they vote for parties, which then translates to seats held in the House of Reps. So far the monarchist party has the highest approval rating and controls the House of Representatives. Party leaders select those who seem fit to serve. 
 
-**Constitution**
-
+**Constitution**  
 Levinia has a constitution that outlines how the country should be ran and how it functions. It includes instructions on Parliament, the Cabinet, etc. The constitution, unlike most, does not include human rights as that is passed by bills. The Levinian Constitution is just an instruction on government and less about rights. 
 
-**Symbols**
-
+**Symbols**  
 Our **national mythical creature** is a two-headed half-eagle half-dove bird. The heads looking west and east represent Levinia's desire to expand around the globe. The eagle side represents Levinian fierceness and the dove represents our peacemaking abilities. 
 Our **national bird** is the Bluebird, which lives around Levinia and in the Imperial Palace itself.
 
