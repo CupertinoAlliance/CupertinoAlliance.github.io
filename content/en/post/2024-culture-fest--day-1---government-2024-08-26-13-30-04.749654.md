@@ -6,7 +6,7 @@ draft: false
 featured_image: 'post/2024-culture-fest--day-1---government-2024-08-26-13-30-04.749654/CUPFW.png'
 ---
 
-<details>
+{{< details >}}
 <summary>New Athens</summary>  
 **__The Free Nation of New Athens__**
 
@@ -53,5 +53,5 @@ Our **__national drink__** is **Natural Light**, a popular beverage of the found
 [![Natural Light](https://media.discordapp.net/attachments/1276169603256422502/1276726646409265225/IMG_6383.jpg?ex=66cd36d8&is=66cbe558&hm=bc7a92775bab2f5bbedf4e05b5dc21bf62c40191df5aaa211919991c911ea84d&=&format=webp&width=674&height=842)](https://media.discordapp.net/attachments/1276169603256422502/1276726646409265225/IMG_6383.jpg?ex=66cd36d8&is=66cbe558&hm=bc7a92775bab2f5bbedf4e05b5dc21bf62c40191df5aaa211919991c911ea84d&=&format=webp&width=674&height=842)
 
 
-</details>
+{{< /details >}}
 
