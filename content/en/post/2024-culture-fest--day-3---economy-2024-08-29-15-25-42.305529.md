@@ -5,7 +5,6 @@ author: 'Tyler Mullins'
 draft: false
 featured_image: 'post/2024-culture-fest--day-3---economy-2024-08-29-15-25-42.305529/CUPFW.png'
 ---
-
 Day 3 of the 2024 Cupertino Forum Culture Festival is all about __economy and trade__!
 Today you can talk about your trading partners, imports, exports, work force, main jobs, etc.
 
@@ -41,8 +40,6 @@ Main Jobs:
 As expected, Amorlenter’s main jobs are stuff like farmers, soldiers, and crafters who primarily make up our economy. It also has to be noted that we don’t have a sailing corps yet but we are working on getting one for international trade.
 {{< /details >}}
 
-
-{{< /details >}}
 
 {{< details title="Hiperia (Click to Expand)" >}}
 **Hiperia**
