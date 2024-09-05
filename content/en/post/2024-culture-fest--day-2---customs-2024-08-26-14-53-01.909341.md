@@ -81,3 +81,71 @@ Sancratosians should be able to relate to each other even if not living next to 
 __Religion__  
 As a secular state, there is no official religion in Sancratosia. Freedom of cults is guaranteed in the Constitution and discrimination based on religious beliefs is forbidden. Religious demographics roughly mirrors global trends. There are some talks on establishing an official church in Sancratosia based on the principles of Unitarian Universalism or, at the very least, an official center of worship.
 {{< /details >}}
+
+{{< details title="The Judicate of Forunes (Click to Expand)" >}}
+**Forunesian traditional beliefs and customs**  
+Furunesværsk tru og skikk
+
+According to professor in archaeology Kalle Sogness, grave mounds from the bronze age are in high numbers placed over hills that overlook both the sun and fjord, Sogness argues hence of a «cult» of the Sun. 
+Within Forunes, or as it was called back then in reconstructed Proto Germanic: “Furhōnasją” there exist two offical documented grave barrows dating from the Bronze age, including several theorized.
+The first «sacred groves» within Forunes are also believed to stem from this faith.
+
+Right after the Migration period, the Norse faith «Åsatru» thrived in and around Forunes. It is the mythical ruler «Alawih» (who’s name means «all holy») from 500-600 AD conquered several territories. According to professor Magnus Olsen there was a deification of Alawih after his death and even a Norse temple (hof) present right by his grave mound, due to the near proximity from Forunes to his main «hof» it is believed this cult also was present here.
+
+The belief of spirits continued in the Norse faith, it was believed that if you slept over a grave mound you could communicate with the deceased, therefore it is percieved that the grave mounds in Forunes from the Bronze age was still frequently visited to «communicate with the dead» either for advice or for remembering one’s ancestors.
+
+With several wages of Christianity, the Trønders (the area) were usually stubborn against this, that until after St Olaf died against the Trønders at the battle of Stiklestad, where rumours spread of him being a holy person. Though St Olaf lost the battle, he won the «spiritual war» as his martyrdom quickly spread Christianity in Trøndelag.
+
+Forunes’ location is situated between both the maritime route of Trondheimsfjord to the west, and the main pilgrim road to the right, both of these lead to two important pilgrim destinations: St Olaf’s martyr death location and his shrine at Nidaros Cathedral.
+
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278465850919354492/IMG_9124.jpg?ex=66dacadb&is=66d9795b&hm=e29b991ddd5c19caf3641f56cdbd191dfad7af2396e104ee8e68955f1055a4e4&=&format=webp&width=632&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278465850919354492/IMG_9124.jpg?ex=66dacadb&is=66d9795b&hm=e29b991ddd5c19caf3641f56cdbd191dfad7af2396e104ee8e68955f1055a4e4&=&format=webp&width=632&height=842)
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278465851699236864/IMG_8594.jpg?ex=66dacadb&is=66d9795b&hm=0e4a678b3c1b65d7da3fc9fcbd551ffc271ea2137d6eaaa6315498b41f82aab5&=&format=webp&width=1122&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278465851699236864/IMG_8594.jpg?ex=66dacadb&is=66d9795b&hm=0e4a678b3c1b65d7da3fc9fcbd551ffc271ea2137d6eaaa6315498b41f82aab5&=&format=webp&width=1122&height=842)
+
+**Faith**  
+Christianity as said earlier, got her footprints on Forunesian soil after Saint Olaf’s death (1030) some sacred water sources was changed in honour of saints, local or not. The former popular hof dedicated to the deified (in a Norse pagan sense) Alawih later turned into a local pilgrim spot to see what some percieved to be St Peter’s keys instead.
+
+In 1537, Lutheranism was forced down the throat with the threat of a sword blade by Danes to Trønders, though venerating saints and icons still played an role long after. Some Lutherans in or around Forunes wasn’t historically as strict when it comes to saints nor icons.
+Today most Forunesians are either atheist or Christian (lutheran), with a minority of Roman Catholic Christiansz
+
+
+**Customs**  
+
+**Hospitality**  
+Hospitality is and was looked upon in Forunesian culture, stretching already from the first pilgrims who crossed maritime or on land by Forunes. Olaus Magnus in his book «history about the Nordic people» (1555) wrote a whole chapter on the hospitability by Scandinavians. 
+People of the North (including Forunes) used to have a pole with a piece of cloth attached to it to tell bypassers that the house is welcome to guests.
+
+**Language**  
+The Trønder dialect is the one spoken in Forunes, already documented first in a local cadastre from 1200. One letter from 1301 records words such as ospellat (unhurt) olagliga (illegal) and so forth. An example of the Trønder dialect is the third attachment, recording the trønder dialect words for different local berries. Most Trønders write today either in dialect or bokmål, though before it was common in alot of areas to write in Nynorsk, which Forunes  still uses today.
+
+**Cuisine**  
+Forunes has access to several food sources, fresh fish by the fjord, meat from farm animals or hunted in the large forest, naturally also great access to vegetables, situated on the Frostan peninsula often referred as “Trøndelags kitchen garden.” 
+
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278470795492069448/IMG_2582.jpg?ex=66dacf76&is=66d97df6&hm=c9eca570e11778b3e43b74c7a73c8ad9caf31a4d0cb7e3d2fac81b9cd16c4ef0&=&format=webp&width=632&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278470795492069448/IMG_2582.jpg?ex=66dacf76&is=66d97df6&hm=c9eca570e11778b3e43b74c7a73c8ad9caf31a4d0cb7e3d2fac81b9cd16c4ef0&=&format=webp&width=632&height=842)
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278470795819221002/IMG_5126.png?ex=66dacf76&is=66d97df6&hm=55e172aaccfef2db4d848262ce0a797e1136ce3805500ceee854974e0f0455f8&=&format=webp&quality=lossless&width=1116&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278470795819221002/IMG_5126.png?ex=66dacf76&is=66d97df6&hm=55e172aaccfef2db4d848262ce0a797e1136ce3805500ceee854974e0f0455f8&=&format=webp&quality=lossless&width=1116&height=842)
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278470796309823529/image.png?ex=66dacf76&is=66d97df6&hm=0b182d8b21daddc51699eafb26813c7e9baf8f1608c431c83a95537971e791ed&=&format=webp&quality=lossless&width=782&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278470796309823529/image.png?ex=66dacf76&is=66d97df6&hm=0b182d8b21daddc51699eafb26813c7e9baf8f1608c431c83a95537971e791ed&=&format=webp&quality=lossless&width=782&height=842)
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278470796968198315/IMG_5129.jpg?ex=66dacf76&is=66d97df6&hm=681a35bf4f4a22789071771a98f645e07c70e067e4d7e420b0716e0e01c8feb9&=&format=webp&width=516&height=386)](https://media.discordapp.net/attachments/1276169770579918950/1278470796968198315/IMG_5129.jpg?ex=66dacf76&is=66d97df6&hm=681a35bf4f4a22789071771a98f645e07c70e067e4d7e420b0716e0e01c8feb9&=&format=webp&width=516&height=386)
+{{< /details >}}
+
+{{< details title="Kingdom of Pibocip (Click to Expand)" >}}
+
+Kingdom of Pibocip Customs:  
+
+The Kingdom of Pibocip, being rooted in in the social contract theory, Catholic Social Teaching, and practiced using the principle of subsidiarity, has a very Catholic culture, especially amongst the senior members of the Royal Family. The Pillin and Cipriano members of the Royal Family, along with Prime Minister Ziobert and Chief Justice Falasca, are members of Our Lady of Mount Carmel Basilica - Saint Anthony of Padua, which is a traditional Italian - American Catholic parish in Northeast, Ohio.
+
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278923588275277864/image0.jpg?ex=66da7ae8&is=66d92968&hm=8d09267aede4b37829f9c98201343ce4a911fd838a1e1e0dcf87577edec05bc5&=&format=webp&width=798&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278923588275277864/image0.jpg?ex=66da7ae8&is=66d92968&hm=8d09267aede4b37829f9c98201343ce4a911fd838a1e1e0dcf87577edec05bc5&=&format=webp&width=798&height=842)
+
+Italian-American Catholic culture, particularly that of the Molise Region of Italy, is very important to many Pibocians, especially the customs of Northeast Ohio. Some of these customs include homemade Wedding Soup, Italian Festivals, and Cookie Tables at weddings. Queen Mary Rita, Crown Prince Phillip, Princess Kim, and Prince Phillip all make their own pasta sauce. Pasta and Pizza are some favorite dishes in Pibocip. Easter and Christmas are particularly important holidays for all Pibocians, along with American Thanksgiving and Pibocip’s Foundation Day.
+
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278923651156279368/image0.jpg?ex=66da7af7&is=66d92977&hm=f4978dd50817cdf10bd6283b079dc5e2702f425e91878c1af7c4efef954d4e30&=&format=webp&width=1122&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278923651156279368/image0.jpg?ex=66da7af7&is=66d92977&hm=f4978dd50817cdf10bd6283b079dc5e2702f425e91878c1af7c4efef954d4e30&=&format=webp&width=1122&height=842)  
+Foundation Day cake:  
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278923799286251613/image0.jpg?ex=66da7b1b&is=66d9299b&hm=6134b5857872ce6d0c3318e951a67cac7b79a8ba2c9859d139616d1c63d16d1b&=&format=webp&width=1198&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278923799286251613/image0.jpg?ex=66da7b1b&is=66d9299b&hm=6134b5857872ce6d0c3318e951a67cac7b79a8ba2c9859d139616d1c63d16d1b&=&format=webp&width=1198&height=842)
+Pasta sauce:  
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278923882597711973/image0.jpg?ex=66da7b2e&is=66d929ae&hm=201681ddc89cb563eed12c40145aa43ef1e5fda8ddc1edabe25e3aa8298c7165&=&format=webp&width=632&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278923882597711973/image0.jpg?ex=66da7b2e&is=66d929ae&hm=201681ddc89cb563eed12c40145aa43ef1e5fda8ddc1edabe25e3aa8298c7165&=&format=webp&width=632&height=842)
+Queen Mary Rita makes blanket in the colors of the Italian Flag:  
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278924055768207360/image0.jpg?ex=66da7b58&is=66d929d8&hm=3af70b1fe6dbf0baa70e018709da42a06987b44ef6d91c85ccb96cfd8c9b6a29&=&format=webp&width=632&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278924055768207360/image0.jpg?ex=66da7b58&is=66d929d8&hm=3af70b1fe6dbf0baa70e018709da42a06987b44ef6d91c85ccb96cfd8c9b6a29&=&format=webp&width=632&height=842)
+Haluski:  
+The Brauer members of the Royal Family are traditionally Lutheran with some German and Slovak American Traditions, mainly food. Haluski, chocolate cake, and chocolate chip cookies are among other Pibocian favorites.   
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278924130451984466/image0.jpg?ex=66da7b69&is=66d929e9&hm=8d093b72add350ecd93bcdceb005fe70e6826e4f01c07e48b0ecd74112914f21&=&format=webp&width=474&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278924130451984466/image0.jpg?ex=66da7b69&is=66d929e9&hm=8d093b72add350ecd93bcdceb005fe70e6826e4f01c07e48b0ecd74112914f21&=&format=webp&width=474&height=842)
+Christmas cookies:  
+[![IMG](https://media.discordapp.net/attachments/1276169770579918950/1278924185334317076/image0.jpg?ex=66da7b77&is=66d929f7&hm=0c31b5d7c8ddb495b2476a6cc1786f2cc43bcb9714ab54194327f2e240000e5a&=&format=webp&width=474&height=842)](https://media.discordapp.net/attachments/1276169770579918950/1278924185334317076/image0.jpg?ex=66da7b77&is=66d929f7&hm=0c31b5d7c8ddb495b2476a6cc1786f2cc43bcb9714ab54194327f2e240000e5a&=&format=webp&width=474&height=842)
+{{< /details >}}
