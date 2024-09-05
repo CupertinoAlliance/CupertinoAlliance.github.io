@@ -181,3 +181,60 @@ But eventually the oligarchy and the Hermonians destroyed the fort this battle w
 
 When the fort fell king, Max instructed the monarchies soldiers to go back and tell the king of the monarchy about how powerful the oligarchy military is, and instruct him to step down.
 {{< /details >}}
+
+{{< details title="Kingdom of Pibocip (Click to Expand)" >}}
+
+The Kingdom of Pibocip History: 
+
+Independence: July 12th 2000  
+Founder: H.H. Phillip J. Pillin  
+Queen Anita Massaro First Monarch: 2000 - 2005  
+King Philip Joseph Pillin: 2005 - Present  
+
+Pibocip was conceived as a form of childhood play inspired by the “Chronicles of Narnia” and the “Princess Diaries,” and later scenes from “The Bridge to Terabithia.” We associate the foundation of Pibocip on 12th July 2000, although the date is a “legendary” foundation day. Indeed, however, the Pibocian Concept is from the very early 21st century. The Pibocian Concept continued for several years, under the reign of Queen Anita, as a childhood fantasy and form of play. Once Prince Phillip J. Started to grow older, the Pibocian Concept became more of a thought experiment, something which it continues to be today. This thought experiment is one that explores the ideas of what constitutes a state as understood by the declarative theory of the Montevideo Convention. This thought experiment was embodied in the Phi Sigma Tau’s Dialogue Journal article “Declarations of Micronations: A Case for Legitimizing Micronations” by H.H. Phillip J. published in October 2020. In 2017-2018, Pibocip experienced a renaissance in excitement and interest. This renaissance saw an expansion of physical territory and other developments of ideas and culture. Notably, these developments included the adoption of Catholic Social Teaching, Subsidiarity, and John Locke’s Classical Liberalism. During this time in the summer of 2018, Prince Phillip J. as foreign minister, discovered the growing idea of Micronationalism and other micronations spread throughout the world. Since then, Pibocip has become an even more advanced, cultured, and sound micronation. Pibocip has had the honor of sending delegates to Microcon 2019 and has since signed treaties and entered into diplomatic relations with several other countries. In 2021, Pibocip joined the Cupertino Alliance and the GUM. Pibocians are proud of their strong and experienced past and look forward to a bright future. Pibocip hopes to continue to expand in the future to continue to be “A Light to the Nations” serving for the common good of all people.
+{{< /details >}}
+
+
+{{< details title="State of Rovia (Click to Expand)" >}}
+
+Rovia Secessionist Movement  
+The Rovia Movement was the catalyst for Rovia's founding; it was the movement that led to the nation's birth. President Motaz, the movement's originator, had begun to take on several roles in certain Micronational governments during this time, and those same nations were to become allies with Rovia after it was created. The Rovani language was developed for the first time after its original founding by locals in the area hundreds of years ago during the Rovia Rebellion. The movement came to an end when the lands of Rovia declared independence and when the delayed but inevitable formation of the Rovian government, as the movement's purpose had been achieved.
+
+Kingdom of Rovia  
+The Rovia Secessionist Movement came to an end on 5 April 2021, when the president of the movement, Motaz, declared himself King of the established Kingdom of Rovia.
+
+The Gartius League  
+The Kingdom of Rovia joined the multiple micronations that King Motaz I had previously served and established ties with most. Then, on 7 April, Rovia founded the Gartius League with 14 other micronations although the number would fluctuate as some officially joined while others remained observers. One of them, the UCCS, officially the United Communist Community of Singaporlando, would wage war with Rovia and the other league members after their delegate repeatedly promoted suicide.
+
+The First and Second War of the Ousting  
+The UCCS would go on to support their delegate and declare war on Rovia and other member states of the league. However, some of the member states of the league managed to convince UCCS government officials to stop their operations and for peace to remain. However, this did not last long as a few weeks later, after the again continued promotion of suicide by the delegate of the UCCS, all members of the Gartius League, including Rovia, voted unanimously to kick the UCCS from the league. Again, another war was waged by the UCCS. This war never came to an end, but there have been rumors going on that the UCCS has been dismantled after it had been banned from using Microwiki, if that is true then the war had come to an end.
+
+Creation of the Empire  
+After Rovia incorporated two colonies near what is now the sovereign state of Karaz , the Empire was founded unofficially. After a brief period as a colony, Viyeldty was raised to statehood status. Emperor Motaz I found the Greater Rovian Empire officially on 3 June 2021.
+
+Emperor Motaz I commented on this later, stating that ''The Kingdom was the beginning, the Empire was the turning point in the gleaming history of our nation.''
+
+Continued rise and expansion  
+A mini golden age began and lasted from 3 June until 22 July. Rovia enjoyed tremendous political success with its government, a revamping of its arts and technology, and diplomatic success among numerous micronations during this brief era. The Rovian government received a major boost when Prime Minister Esty Carpentieri chose his cabinet, which would govern the country for a year, marking the start of the expansion of political foundations in the country for the first time since the independence of the country. Jamasatnia, a vassal state of Rovia, likewise pledged its loyalty to Rovia.
+
+Steady Decline  
+Jamasatnia declared independence from Rovia on 22 July. It experienced minimal change during the Empire's brief reign of control of the country and was somewhat cut off from the Empire. However, one triumph could be credited, which was the expansion of Jamasatnia's political foundations.
+
+Tobey Wyles, who was chosen by Rovia, was appointed as Prime Minister of Jamasatnia. Rovia tried to keep Jamasatnia under control, but in the end Emperor Motaz I declared Jamasatnia independent. The mini golden age came to an end with the end of Rovian expansion, as well as other political, technological, and cultural accomplishments.
+
+The War of the Misapprehended  
+As Rovia continued to steadily decline, a nation-state by the name of Yeshilova tried to establish diplomatic ties with Rovia. Somewhere along the way, two delegates from different countries mistook each other's words for rude remarks. This caused outrage from both sides, and Yeshilova then declared war on Rovia. Emperor Motaz I quickly rallied the nation's online presence, as any cyber attack would have made Rovia's presence with the online world disappear. After a brief online meeting with Yeshilova's leader, both leaders agreed that their countries would no longer be in war and that both countries would establish diplomatic relations, and both agreed that what happened was a misunderstanding, hence the naming of the war: The War of the Misapprehended. After that both countries became allies.
+
+Dissolution  
+On the 15 October, Emperor Mo I met with the Rovani Government to discuss dissolving Rovia because of the number of wars that had exhausted the empire. The empire was dissolved as a consequence, and the empire's land was transferred in the following order: Vyeldty to Pinang, Parraesty to Kanazia, although Kanzia has not administered it and doesn't consider it part of their land. The land has since been returned to Saudi Arabia. And the remainder has also been returned to Egypt and Saudi Arabia.
+
+On the same day, the Empire's demise was announced, and dissolution talks came to a conclusion. For half a year, the empire had dissolved, and all lands were receded back to the Egyptian, Saudi Arabian, and Italian governments.
+
+This marked the start of Rovia's tumultuous period. And, despite the fact that the dissolving of the country was peaceful and that only the emperor himself proposed it (which was necessary since the nation could not have survived numerous times of crises and three wars), the prevalent sentiment regarding the empire's partition is one of sadness.
+
+Second Rovian Empire  
+The Second Rovian Empire was established on 26 March 2022, by the Emperor and the royal family, with former government officials and former allies notified. On 22 November 2022, Rovia reformed the Gartius League and on 23 March 2023, Rovia joined the Grand Unified Micronational as an observer state. The second Prime Minister election took place on the 8th of August, 2023, with Prime Minister Sam. A retaining his position and a cabinet of 6 ministers (including the prime minister) chosen.
+
+State of Rovia  
+On 8 January 2024, the Constitution of Rovia was made, declaring it to be a state and with the Sultan as the ruler. New elections are set to take place in the following months and will be affected by the newly ratified constitution.
+{{< /details >}}
