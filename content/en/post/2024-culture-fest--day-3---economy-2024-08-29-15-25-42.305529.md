@@ -105,3 +105,10 @@ The first official sets of Eintrachtian banknotes were printed by the Bank of Ei
 **Stamps**  
 Stamp collection is a huge culture in Eintrachtia. However, only one set of stamps was ever produced by Eintrachtia. The stamps, published by the Penguins State (likely between 2017-2018) featured penguins, and had a face value of one (Penguinsian) dollar each. It is also one of the oldest remaining physical documentation of Middle Penguinsian (Old Eintrachtian), a constructed language used in Eintrachtia; the usage of the language can be see on the face value titled “UN DULLAR” (one dollar). The set remains in the royal collection.
 {{< /details >}}
+{{< details title="Kingdom of Pibocip (Click to Expand)" >}}
+**Kingdom of Pibocip**
+
+Economics and Trade:  
+
+The main export for Pibocip is intellectual property, namely micronational ideas and political theories. We also export organic produce, cooking recipes and crafts. Since these are small or intangible items, our current GDP is estimated about $100.00USD. Much of Pibocip’s electricity is solar powered, so is produced naturally. Like most micro-states, our micronation also imports most other necessary products and resources.
+{{< /details >}}
