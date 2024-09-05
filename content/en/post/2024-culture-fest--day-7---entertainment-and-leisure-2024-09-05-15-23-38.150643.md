@@ -32,6 +32,10 @@ Shangki is played by throwing a spear, and depending on the variant, either tryi
 
 Stihkubala was learned from interactions with the Shalaki (Cherokee), and is the more physically active of the two sports. The ball, a small ball of leather wrapped around wood, is thrown up in the air as members both teams them clambor to catch it in their sticks that end in a small basket or wood-framed leather loop. The goal is to get the ball, however possible, through the opposing side's goal posts; this often means throwing the ball to other players, or rushing and plowing through the opponents.
 
+{{< /details >}}
+
+{{< details title="The Judicate of Forunes (Click to Expand)" >}}
+
 **Hneftafl, Sjakk and other traditional board games**  
 Forunesians who lives in their native far north, had for obvious reasons spend most of their winter inside. This was a great way to tell tales, read, write or play games.
 
