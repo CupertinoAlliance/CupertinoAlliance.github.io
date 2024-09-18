@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "Cupertino Blog"
 
 description: "A centralized blog for Cupertino Forum member news"
