@@ -42,12 +42,8 @@ url = "https://discord.gg/7FFunBaT6m"
 
 [menu]
 [[menu.main]]
-  name = 'Home'
-  url = '/'
-  weight = 10
-[[menu.main]]
   name = 'Posts'
-  url = '/apost'
+  url = '/post'
   weight = 20
 [[menu.main]]
   name = 'Guides'
