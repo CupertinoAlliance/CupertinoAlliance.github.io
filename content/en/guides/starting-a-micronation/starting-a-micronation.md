@@ -9,7 +9,7 @@ Authored by Jayden Lycon, formatted by Tyler Mullins.
 # Justification
 Before starting out with any flags or titles or anything, ask yourself why do you want to make a micronation? Could it be that you just want to have some fun, or do you want to operate a political science simulation? Perhaps you want to run a fantasy empire to your heart's extent? 
 
-**Why should I?**
+**Why should I?**  
 It's generally good to cite a reason to start your micronation. It makes it more legitimate as well as stands out from the large crowd of other nations. Furthermore, your reason can help you drive the direction of your micronation and can be cited in your declaration of Independence.  
 For example, If I made a micronation for a political science simulation, I would focus on the legal parts of the nation like governmental powers or the constitution. Likewise, if I wanted to start an empire, I would travel around the world claiming land everywhere I go. A justification of your micronation's existence can help you focus on what parts as opposed to others. 
 
@@ -29,18 +29,18 @@ Yu-Xia was founded on 3 February 2020 due to the United States's flawed governme
 Vishwamitra was founded on 15 April 2007 as a gathering of friends. 
 
 **New Athens**  
-The Free Nation of New Athens was founded on 30 September 2020 to protest unjust local laws. 
+The Free Nation of New Athens was founded on 30 September 2019 to protest unjust local laws. 
 
 # Territory  
 After thinking about why you want to start your micronation, then you need territory to rule. The common consensus varies greatly community by community, with each neighborhood having its own sets of unwritten rules on this matter. 
 
 **MicroWiki community**  
-In the MicroWiki community, the general consensus is that your claims must be reasonable in size and that you can travel to them. This means that it is not preferable to claim territories in Bir Tawil nor Antarctica as both are overclaimed and are inaccessible to your average Joe. Claims that are preferred in that community may include: Your or your friend's house (with permission from the friend if you are doing the latter) 
-A public park or public building you can travel to The size of your claim may also matter. It's generally not recommended to claim large swaths of land or a block of land with many buildings and residents in it. These claims are generally considered hard to enforce and thus less realistic. For example: 
-• It's recommended to claim a small park. 
-• It's not recommended to claim a really big park. 
-• It's recommended to claim your house. 
-• It's not recommended to claim a huge residential complex with many citizens residing there. 
+In the MicroWiki community, the general consensus is that your claims must be reasonable in size and that you can travel to them. This means that it is not preferable to claim territories in Bir Tawil nor Antarctica as both are overclaimed and are inaccessible to your average Joe. Claims that are preferred in that community may include: Your or your friend's house (with permission from the friend if you are doing the latter)  
+A public park or public building you can travel to The size of your claim may also matter. It's generally not recommended to claim large swaths of land or a block of land with many buildings and residents in it. These claims are generally considered hard to enforce and thus less realistic. For example:  
+• It's recommended to claim a small park.  
+• It's not recommended to claim a really big park.  
+• It's recommended to claim your house.  
+• It's not recommended to claim a huge residential complex with many citizens residing there.  
 
 **Solidifying your claim**  
 To solidify your claim, it's generally recommended to place the flag of the micronation in that territory. Look at the photo- this claim of a small creek is solidified through the micronation's flag being placed on the territory. It's not a formal requirement, but it makes your claim more legitimate- plus you got some cool photos you can nominate for featured picture status!  
@@ -51,13 +51,15 @@ Examples that are considered widely accepted are:
 
 
 Other communities and sectors may have other standards relating to territory. For example, Aerica has a colony on Mars, and Westarctica claims apart of Antarctica. Both are respected in their own communities and sectors. I recently spoke to Kevin Baugh on this matter, and he wrote a very good quote on this subject:  
+
 “Micronations can be as much about ideals as places, and for most it’s the idea of their nation that matters. For example, Obsidia’s entire nation is a rock that their Marshal carries in a case. Can she live on that rock? No, it’s a symbol, in her case showing that nations are about people, not land.”  
 — Kevin Baugh, 2021  
+
 Your territory should represent you and your micronation, and people could judge your nation just by what types of claims you do choose. 
 
 # Symbols  
 Symbols represent your micronation. Normally, a micronation has a coat of arms or emblem, and a flag.  
-Tutorials for designing digital seals, flags and ribbons can be found at: https://micronations.wiki/wiki/Cupertino_Guide/Symbols 
+Tutorials for designing digital seals, flags and ribbons can be found at [HERE](https://micronations.wiki/wiki/User:Jaydenfromcanada/CupertinoGuide/Symbols)
 
 **Rule of tincture**  
 This guide uses the term "rule of tincture". It began in heraldry (i.e., the study of coat of arms), but its rule can be translated to generally good design. The rule is No metal on metal. No color on color.  
@@ -82,10 +84,11 @@ Good flags fulfill a majority, if not all five principles listed by the North Am
 
 
 These principles were set up in the book Good Flag, Bad Flag, compiled by Ted Kaye. It is a great read and I'll recommend you read it. A report also by the North American Vexillological Association called "The Commission's Report and the Guiding Principles on Flag Design" is also a good read when making a flag. 
-Good, free software to make your flags include • Paint.net (my personal favorite)  
+Good, free software to make your flags include:  
+• Paint.net (my personal favorite)  
 • GIMP  
 • Inkscape  
-These ones are more basic and limited in features  
+These ones are more basic and limited in features:  
 • Tennessine  
 • Flagmaker  
 
@@ -109,7 +112,7 @@ There are multiple ways to write your declaration of independence, those being:
 
 **What to do next?**  
 Some micronations also send their declaration of independence to a member of parliament/legislature and/or the head of government or head of state of their micronation, though this is optional.  
-Examples and templates for declarations of independence can be found online at: https://micronations.wiki/wiki/Cupertino_Guide/Welcome #Resources 
+Examples and templates for declarations of independence can be found [HERE](https://drive.google.com/drive/folders/1CPof_6mw718-Djr34aD4F_fQB_SkSTWB?usp=sharing)
 
 # Constitution  
 A constitution is a document that sets up your government, outlines how your micronation is governed and who will have the power, along with the rights given to citizens.  
@@ -121,23 +124,23 @@ Most constitutions contain the following sections:
 • Form of government  
 • Rights  
 • Freedoms  
-Examples and templates for constitutions are located at: https://micronations.wiki/wiki/Cupertino_Guide/Welcome #Resources  
+Examples and templates for constitutions are located [HERE](https://drive.google.com/drive/folders/1CPof_6mw718-Djr34aD4F_fQB_SkSTWB?usp=sharing)  
 
 **Constitution: Codified vs Uncodified**  
 There are pros and cons for both codified and uncodified constitutions.  
-Pros: Codified  
+__Pros: Codified__  
 • Is considered "higher law.”  
 • Clear rules.  
 • Can be found in one place.  
 • Fewer spaces for a constitutional crisis.  
 • Usually faster to write.  
-Cons: Codified  
+__Cons: Codified__  
 • Will be slow to amend (especially if you have a big population) and may not be up for times.  
 
-Pros: Uncodified  
+__Pros: Uncodified__  
 • More flexible.  
 • Easier to amend and thus more modern.  
-Cons: Uncodified  
+__Cons: Uncodified__  
 • More documents to look through.  
 • Documents have the same status of other laws, which means rights can be easily amended.  
 
@@ -210,5 +213,7 @@ These can include:
  
 # Conclusion  
 This has been Chapter 1: Starting a Micronation.  
+
 If you’ve made it this far, you’re well on your way to building a successful micronation.  
+
 Check out Chapter 2: MicroWiki if you’re interested in learning how to create professional MicroWiki articles. 
