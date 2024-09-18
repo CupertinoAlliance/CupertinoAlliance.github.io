@@ -1,3 +1,11 @@
+---
+title: 'Starting a Micronation'
+date: '2024-09-18'
+author: 'Jayden Lycon, Tyler Mullins'
+draft: false
+featured_image: 'post/2024-culture-fest--day-1---government-2024-08-26-13-30-04.749654/CUPFW.png'
+---
+
 # About 
 Welcome to micronationalism! You may have heard about us from Sealand or Molossia, this community is full of micronations. 
 CupertinoGuides is a Cupertino Forum project where guides are produced to help new micronationalists learn how to make a stable and democratic nation. 
