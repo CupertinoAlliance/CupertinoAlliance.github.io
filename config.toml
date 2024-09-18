@@ -39,13 +39,3 @@ url = "https://twitter.com/cupertino_org"
 [[params.ananke_socials]]
 name = "discord-black"
 url = "https://discord.gg/7FFunBaT6m"
-
-[menu]
-[[menu.main]]
-  name = 'Posts'
-  url = '/post'
-  weight = 20
-[[menu.main]]
-  name = 'Guides'
-  url = '/guides'
-  weight = 30
